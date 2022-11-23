@@ -1,0 +1,7 @@
+# Arquivo de configuração de destino de armazenamento (atente-se a identação dos valores)
+
+# Criar diretório Backup/ no diretório home/ do usuário (os arquivos poderão ser salvos nesse diretório)
+DIR_BACKUP:false
+
+# Salvar arquivos compactados no diretório Backup/
+SAVE_DIR_BACKUP:false
